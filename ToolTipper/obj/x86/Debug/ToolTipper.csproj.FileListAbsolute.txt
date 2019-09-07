@@ -1,0 +1,9 @@
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\bin\Debug\ToolTipper.exe
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\bin\Debug\ToolTipper.pdb
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\ToolTipper.ToolTipper.resources
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\ToolTipper.Properties.Resources.resources
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\ToolTipper.exe
+C:\Users\phuzE\Dropbox\ToolTipper\ToolTipper\obj\x86\Debug\ToolTipper.pdb
